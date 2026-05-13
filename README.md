@@ -17,6 +17,15 @@ Se estiver utilizando distros baseadas em Arch, tenha certeza de ter instalado o
 
 -->swww ou awww
 
+Se estiver usando Hyprland, certifique de deixar o awww-daemon ativado nas configurações, que podem ser encontradas geralmente em:
+
+cd ~/.config/hypr/
+
+Encontre o arquivo de configuração do hyprland, geralmente hyprland.conf e coloque na parte de AUTOSTART o seguinte comando:
+
+exec-once = awww-daemon
+
+Depois salve o arquivo e saia para aplicar as alterações.
 
 Funcionamento:
 
