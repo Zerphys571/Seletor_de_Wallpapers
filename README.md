@@ -5,7 +5,7 @@ Este pequeno script foi feito para utilização de wallpapers animados ou estát
 
 --> Imagens: .jpg, .jpeg, .png
 
-O script foi desenvolvido utilizando Arch linux como distribuição Linux, e usando o Hyprland como interface, assim em outras distribuições e ambientes gráficos pode-se ocorrer falhas inesperadas.
+O script foi desenvolvido utilizando Arch como distribuição Linux, e usando o Hyprland como interface, assim em outras distribuições e ambientes gráficos pode-se ocorrer falhas inesperadas.
 
 Dependencias:
 
