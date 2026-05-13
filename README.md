@@ -1,5 +1,6 @@
 # SCRIPT SELETOR DE WALLPAPER USANDO AWWW E MPVPAPER
 Este pequeno script foi feito para utilização de wallpapers animados ou estáticos, sendo possível utilizar nos seguintes formatos abaixo:
+
 --> Vídeos: .mp4
 --> Imagens: .jpg, .jpeg, .png
 
