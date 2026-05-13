@@ -28,6 +28,6 @@ Para saber como ele funciona so utilizar o script com a flag -h ou --help no ter
 
 wallpaper.sh --help
 
-#OBRIGADO
+OBRIGADO
 
-#AUTOR: LUIS GUILHERME
+AUTOR: LUIS GUILHERME
