@@ -1,6 +1,6 @@
 # Gerenciador de Wallpapers para Hyprland
 
-Um script simples e eficiente para gerenciar wallpapers estáticos e animados no **Hyprland**, utilizando **Rofi** como menu visual interativo.
+Um script simples para gerenciar wallpapers estáticos e animados no **Hyprland**, utilizando **Rofi** como menu visual interativo.
 
 Compatível com imagens, GIFs e vídeos, com suporte a cache automático de miniaturas para melhorar o desempenho.
 
